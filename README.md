@@ -2,8 +2,8 @@
 # Data Science Portfolio - Vignesh Loganathan
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
-- **Email**: [archdesai.ad@gmail.com](vigneshharish220@gmail.com)
-- **LinkedIn**: [linkedin.com/archd3sai](https://www.linkedin.com/in/vignesh4005/)
+- **Email**: [vigneshharish220gmail.com](vigneshharish220@gmail.com)
+- **LinkedIn**: [linkedin.com/vignesh4005](https://www.linkedin.com/in/vignesh4005/)
 
 ## Achievements
 - Got Hacker Rank 5-Star SQL Gold badge, highlighting my skills in coverting any business questions into SQL query.
