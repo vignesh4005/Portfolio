@@ -6,7 +6,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - **LinkedIn**: [linkedin.com/vignesh4005](https://www.linkedin.com/in/vignesh4005/)
 
 ## Achievements
-- Got Hacker Rank 5-Star SQL Gold badge, highlighting my skills in coverting any business questions into SQL query.
+- Got [Hacker Rank](https://www.hackerrank.com/profile/vignesh4005) 5-Star SQL Gold badge, highlighting my skills in coverting any business questions into SQL query.
 - [Publication](https://ieeexplore.ieee.org/document/10110053): Real-Time Face Mask Detection Using Haar Cascade and Convolutional Neural Networks, Proceedings of the IEEE 2023.
 
 ## Projects
