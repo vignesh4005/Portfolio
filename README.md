@@ -29,8 +29,9 @@ In this project, I utilized SQL to analyze customer churn drivers, focusing on c
 
 ## Micro Projects
 - ### Machine Learning:
-    - [Logistic Regression, Decision Tree, K-Nearest Neighbors (KNN)](https://github.com/vignesh4005/Campus_Placement_Prediction/blob/main/README.md) : In this file, I have implemented Logistic Regression, Decision Tree, K-Nearest Neighbors (KNN) algorithm that predict a student's placement status based on academic and extracurricular factors
+    - [Logistic Regression, Decision Tree, KNN](https://github.com/vignesh4005/Campus_Placement_Prediction/blob/main/README.md) : In this file, I have implemented Logistic Regression, Decision Tree, K-Nearest Neighbors (KNN) algorithm that predict a student's placement status based on academic and extracurricular factors
     - [Linear Regression](https://github.com/vignesh4005/Mobile_Price_Prediction_using_Linear_Regression/blob/main/README.md) : In this file, I implemented linear regression to predict the mobile price and got R2 score of 0.931
+    - [Ensemble Learning, Naive Bayes, SVM](https://github.com/vignesh4005/Crowdfunding_Campaign_Success_Prediction/blob/main/README.md) : In this document, I implemented Ensemble Learning (Bagging - Random Forest & Boosting - AdaBoost, Gradient Boost, XGBoost), Naive Bayes, and Support Vector Machine (SVM) to predict the crowdfunding campaign success and evaluated the best model with accuracy scores
 
 - ### SQL:
     - [Query](https://github.com/vignesh4005/MySQL_Pizza_Sales_Analysis/blob/main/Pizza%20Sales%20Analysis%20Query.sql) : This porject aim is to answer business related questions on Pizza Sales using MySQL
